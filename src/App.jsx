@@ -39,7 +39,7 @@ export default function App() {
   return (
     <main>
       <header>
-        <h1>Trailhead</h1>
+        <h1>Trailhead TEST</h1>
         <p>Gear for people who would rather be outside.</p>
       </header>
 
